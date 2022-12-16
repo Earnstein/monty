@@ -67,7 +67,7 @@ int _isdigit(char *str)
 
 	if (str[i] == '-')
 	{
-cddf		i++;
+		i++;
 	}
 	while (str[i] != '\0')
 	{
